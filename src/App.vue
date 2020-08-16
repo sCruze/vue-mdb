@@ -5,6 +5,6 @@
 </template>
 
 <style lang="scss">
-@import 'lib/css/mdb.css';
-//@import 'lib/css/bootstrap.min.css';
+@import 'assets/style/css/bootstrap.min.css';
+@import 'mdbootstrap_vue/css/mdb.min.css';
 </style>
